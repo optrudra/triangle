@@ -1,0 +1,2 @@
+# triangle
+triangle with python.
